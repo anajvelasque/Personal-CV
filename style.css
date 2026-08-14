@@ -75,7 +75,7 @@ body {
 
 .marca h1 {
   font-family: 'Italiana', serif;
-  font-weight: 600;
+  font-weight: 700;
   font-size: clamp(2.6rem, 6.5vw, 4.4rem);
   margin: 0;
   letter-spacing: 0.01em;
